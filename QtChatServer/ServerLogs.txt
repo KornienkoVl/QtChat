@@ -1,0 +1,12 @@
+Server started
+Database connected
+Client connected 864
+Register Пингвин 123
+Register OK
+Shared message Пингвин: Привет
+Shared message Пингвин: пока
+Client log out Пингвин -1
+Server started
+Database connected
+Server started
+Database connected
